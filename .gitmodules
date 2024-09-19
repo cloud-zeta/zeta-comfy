@@ -1,0 +1,27 @@
+[submodule "custom_nodes/cg-use-everywhere"]
+	path = custom_nodes/comfyui_use_everywhere
+	url = git@github.com:chrisgoringe/cg-use-everywhere.git
+[submodule "custom_nodes/ComfyUI_essentials"]
+	path = custom_nodes/comfyui_essentials
+	url = git@github.com:cubiq/ComfyUI_essentials.git
+[submodule "segment_anything"]
+	path = custom_nodes/comfyui_segment_anything
+	url = git@github.com:storyicon/comfyui_segment_anything.git
+[submodule "custom_nodes/comfyui_controlnet_aux"]
+	path = custom_nodes/comfyui_controlnet_aux
+	url = git@github.com:Fannovel16/comfyui_controlnet_aux.git
+[submodule "custom_nodes/comfyui_was_node_suite"]
+	path = custom_nodes/comfyui_was_node_suite
+	url = git@github.com:WASasquatch/was-node-suite-comfyui.git
+[submodule "custom_nodes/comfyui_impact_pack"]
+	path = custom_nodes/comfyui_impact_pack
+	url = git@github.com:ltdrdata/ComfyUI-Impact-Pack.git
+[submodule "custom_nodes/comfyui_crystools"]
+	path = custom_nodes/comfyui_crystools
+	url = git@github.com:crystian/ComfyUI-Crystools.git
+[submodule "custom_nodes/comfyui_rgthree"]
+	path = custom_nodes/comfyui_rgthree
+	url = git@github.com:rgthree/rgthree-comfy.git
+[submodule "custom_nodes/comfyui_inpaint_nodes"]
+	path = custom_nodes/comfyui_inpaint_nodes
+	url = git@github.com:Acly/comfyui-inpaint-nodes.git
