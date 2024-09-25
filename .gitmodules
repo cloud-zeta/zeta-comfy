@@ -15,7 +15,7 @@
 	url = git@github.com:WASasquatch/was-node-suite-comfyui.git
 [submodule "custom_nodes/comfyui_impact_pack"]
 	path = custom_nodes/comfyui_impact_pack
-	url = git@github.com:ltdrdata/ComfyUI-Impact-Pack.git
+	url = git@github.com:cloud-zeta/ComfyUI-Impact-Pack.git
 [submodule "custom_nodes/comfyui_crystools"]
 	path = custom_nodes/comfyui_crystools
 	url = git@github.com:crystian/ComfyUI-Crystools.git
